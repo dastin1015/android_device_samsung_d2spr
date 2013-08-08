@@ -14,8 +14,13 @@ PRODUCT_BRAND := samsung
 PRODUCT_DEVICE := d2spr
 PRODUCT_MODEL := SPH-L710
 PRODUCT_MANUFACTURER := samsung
+
 # Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=d2spr TARGET_DEVICE=d2spr BUILD_FINGERPRINT="samsung/d2spr/d2spr:4.0.4/IMM76D/L710VPALG2:user/release-keys" PRIVATE_BUILD_DESC="d2spr-user 4.0.4 IMM76D L710VPALG2 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRODUCT_NAME=d2spr \
+    TARGET_DEVICE=d2spr \
+    BUILD_FINGERPRINT="samsung/d2spr/d2spr:4.1.2/JZO54K/L710VPBMD4:user/release-keys" \
+    PRIVATE_BUILD_DESC="d2spr-user 4.1.2 JZO54K L710VPBMD4 release-keys"
 
 # Set up the product codename, build version & MOTD.
 PRODUCT_CODENAME := Calco
