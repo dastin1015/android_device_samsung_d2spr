@@ -2,49 +2,41 @@
   {
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch": "jellybean",
     "dep_type": "device"
   },
   {
     "repository": "android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common",
-    "branch": "jellybean",
     "dep_type": "device"
   },
   {
     "repository": "android_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common",
-    "branch": "jellybean",
     "dep_type": "device"
   },
   {
     "repository": "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
-    "branch": "jellybean",
     "dep_type": "kernel"
   },
   {
     "repository": "android_hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
-    "branch": "jellybean",
     "dep_type": "hardware"
   },
   {
     "repository": "android_hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
-    "branch": "jellybean",
     "dep_type": "hardware"
   },
   {
     "repository": "android_hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
-    "branch": "jellybean",
     "dep_type": "hardware"
   },
   {
     "repository": "android_hardware_samsung",
     "target_path": "hardware/samsung",
-    "branch": "jellybean",
     "dep_type": "hardware"
   }
 ]
